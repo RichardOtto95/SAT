@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.25" height="20.5" viewBox="0 0 23.25 20.5">
+  <g id="Componente_214_2" data-name="Componente 214 – 2" transform="translate(0.5 0.75)">
+    <path id="Caminho_23717" data-name="Caminho 23717" d="M587.584,763.357a9.954,9.954,0,0,0,6.121,2.206c3.643,0,8.614-4.166,8.614-9.439s-2.484-9.561-8.614-9.561-8.841,5.148-9.521,9.561" transform="translate(-580.319 -746.563)" fill="none" stroke="#4eb056" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Caminho_23718" data-name="Caminho 23718" d="M588.429,754.489l-3.756,3.989-3.756-3.989Z" transform="translate(-580.917 -744.348)" fill="#0cd01c" stroke="#0cd01c" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Elipse_124" data-name="Elipse 124" transform="translate(10.746 6.956)" fill="#1599e4" stroke="#1599e4" stroke-width="1">
+      <ellipse cx="2.366" cy="2.559" rx="2.366" ry="2.559" stroke="none"/>
+      <ellipse cx="2.366" cy="2.559" rx="1.866" ry="2.059" fill="none"/>
+    </g>
+  </g>
+</svg>

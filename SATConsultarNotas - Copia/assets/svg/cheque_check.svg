@@ -1,0 +1,21 @@
+<svg id="Componente_199_2" data-name="Componente 199 – 2" xmlns="http://www.w3.org/2000/svg" width="22" height="15.025" viewBox="0 0 22 15.025">
+  <g id="Cheque">
+    <g id="Retângulo_912" data-name="Retângulo 912" fill="#fff" stroke="#4d4d4d" stroke-width="1">
+      <rect width="22" height="9.694" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="8.694" fill="none"/>
+    </g>
+    <path id="Caminho_23655" data-name="Caminho 23655" d="M8.316,15.641h3.71l-1.828,2.3,1.828,2.039H8.316L10.2,17.941Z" transform="translate(-5.594 -12.963)" fill="#00b9e5" stroke="#00b9e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Linha_654" data-name="Linha 654" x2="1.467" transform="translate(8.067 3.462)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_655" data-name="Linha 655" x2="1.467" transform="translate(11 3.462)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_656" data-name="Linha 656" x2="1.467" transform="translate(13.933 3.462)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_657" data-name="Linha 657" x2="1.467" transform="translate(9.533 6.232)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_658" data-name="Linha 658" x2="5.867" transform="translate(12.467 6.232)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Confirmar" transform="translate(10.175 4.847)">
+      <g id="Elipse_56" data-name="Elipse 56" fill="#00dd10" stroke="#00dd10" stroke-width="1">
+        <ellipse cx="5.225" cy="5.089" rx="5.225" ry="5.089" stroke="none"/>
+        <ellipse cx="5.225" cy="5.089" rx="4.725" ry="4.589" fill="none"/>
+      </g>
+      <path id="Caminho_23115" data-name="Caminho 23115" d="M-7740.087-4407.673l2.029,1.985,4.144-3.741" transform="translate(7742.226 4412.647)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

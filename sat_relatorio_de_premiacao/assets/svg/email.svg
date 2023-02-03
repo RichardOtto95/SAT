@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="17" viewBox="0 0 23 17">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.713" stop-color="#d6d6d6" stop-opacity="0.812"/>
+      <stop offset="1" stop-color="#e3e3e3" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cecbcb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dcdada"/>
+    </linearGradient>
+  </defs>
+  <g id="E-mail" transform="translate(0.5 0.5)">
+    <rect id="Retângulo_860" data-name="Retângulo 860" width="22" height="16" stroke="#cfcfcf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Polígono_1" data-name="Polígono 1" d="M11,0,22,10H0Z" transform="translate(0 6)" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill="url(#linear-gradient-2)"/>
+    <path id="Polígono_2" data-name="Polígono 2" d="M11,0,22,11H0Z" transform="translate(22 11) rotate(180)" stroke="#bababa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
