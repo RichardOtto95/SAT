@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="20.5" viewBox="0 0 22 20.5">
+  <g id="Componente_211_3" data-name="Componente 211 – 3" transform="translate(0 0.5)">
+    <g id="Grupo_5518" data-name="Grupo 5518" transform="translate(2.507 0)">
+      <path id="Interseção_4" data-name="Interseção 4" d="M0,7.748,10.19,0l6.8,7.34L6.814,15.075Z" fill="#004deb" stroke="#004deb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linha_674" data-name="Linha 674" y1="9.064" x2="11.579" transform="translate(0.197 0.174)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="Grupo_5516" data-name="Grupo 5516" transform="translate(0 6.405)">
+      <g id="Retângulo_979" data-name="Retângulo 979" fill="#004deb" stroke="#004deb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="22" height="13.595" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="12.595" fill="none"/>
+      </g>
+      <line id="Linha_670" data-name="Linha 670" x2="8.105" transform="translate(1.737 2.832)" fill="none" stroke="#1391ff" stroke-width="1"/>
+      <line id="Linha_671" data-name="Linha 671" x2="8.105" transform="translate(1.737 3.965)" fill="none" stroke="#1391ff" stroke-width="1"/>
+      <line id="Linha_672" data-name="Linha 672" x2="8.105" transform="translate(1.737 10.763)" fill="none" stroke="#1391ff" stroke-width="1"/>
+      <line id="Linha_673" data-name="Linha 673" x2="8.105" transform="translate(12.158 10.763)" fill="none" stroke="#1391ff" stroke-width="1"/>
+      <g id="Elipse_123" data-name="Elipse 123" transform="translate(13.895 2.266)" fill="#fff" stroke="#cef5ff" stroke-width="1">
+        <ellipse cx="2.895" cy="1.699" rx="2.895" ry="1.699" stroke="none"/>
+        <ellipse cx="2.895" cy="1.699" rx="2.395" ry="1.199" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

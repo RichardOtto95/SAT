@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+  <g id="Componente_229_4" data-name="Componente 229 – 4" transform="translate(0 1)">
+    <g id="Elipse_128" data-name="Elipse 128" fill="none" stroke="#35404d" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+    <text id="_" data-name="$" transform="translate(10 16)" fill="#00bb43" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-4.547" y="0">$</tspan></text>
+  </g>
+</svg>

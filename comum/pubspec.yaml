@@ -1,0 +1,65 @@
+name: comum
+description: A new Flutter package project.
+version: 0.0.1
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  intl: ^0.17.0
+  device_info_plus: ^4.1.2
+  json_annotation: ^4.3.0
+  shared_preferences: ^2.0.7
+  shared_preferences_web: ^2.0.2
+  flutter_modular: ^5.0.3
+  flutter_easyloading: ^3.0.3
+  flutter_svg: ^1.0.3
+  fluttertoast: ^8.0.7
+  extended_masked_text: ^2.3.1
+  flutter_platform_widgets: ^2.0.0
+  simple_barcode_scanner: ^0.0.4
+  flutter_typeahead: ^4.0.0
+  mask_text_input_formatter: ^2.4.0
+  google_fonts: ^3.0.1
+  pluto_grid: ^5.4.4
+  syncfusion_flutter_datagrid: ^20.2.50
+  syncfusion_flutter_core: ^20.3.49  
+
+  smartpos_flutter: 
+    path: ../elgin_smartpos_flutter
+  internet_file: 
+    path: ../internet_file
+  reflectable: ^4.0.2
+  printing: ^5.9.3
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^2.0.1
+  json_serializable: ^6.0.0
+  build_runner: ^2.2.0
+  http: ^0.13.3 
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen-Regular.ttf
+        - asset: assets/fonts/Oxygen-Bold.ttf
+          weight: 700
+          
+scripts:
+  mobx: flutter pub run build_runner watch --delete-conflicting-outputs

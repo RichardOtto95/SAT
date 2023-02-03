@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.5" height="22" viewBox="0 0 22.5 22">
+  <g id="Componente_213_2" data-name="Componente 213 – 2" transform="translate(0.5)">
+    <g id="Grupo_5519" data-name="Grupo 5519" transform="translate(0)">
+      <g id="Retângulo_980" data-name="Retângulo 980" transform="translate(1.559 4)" fill="#999" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="16.441" height="14" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15.441" height="13" fill="none"/>
+      </g>
+      <g id="Retângulo_981" data-name="Retângulo 981" transform="translate(2.559)" fill="#464c56" stroke="#464c56" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="14.441" height="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13.441" height="4" fill="none"/>
+      </g>
+      <g id="Retângulo_982" data-name="Retângulo 982" transform="translate(4.559 6)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1">
+        <rect width="10.441" height="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9.441" height="5" fill="none"/>
+      </g>
+      <path id="Caminho_23716" data-name="Caminho 23716" d="M564.178,712l-2.887-3.66H547.413L544.619,712l2.235,1.322L548.81,712l2.142,1.322L552.908,712l1.77,1.322L556.541,712l1.676,1.322,1.77-1.322,1.956,1.322Z" transform="translate(-544.619 -705.84)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Relatório" transform="translate(12.248 10)">
+      <g id="Retângulo_689" data-name="Retângulo 689" fill="none" stroke="#707070" stroke-width="0.7">
+        <rect width="9.752" height="12" rx="2" stroke="none"/>
+        <rect x="0.35" y="0.35" width="9.052" height="11.3" rx="1.65" fill="none"/>
+      </g>
+      <g id="Grupo_4334" data-name="Grupo 4334" transform="translate(1.438 1.565)">
+        <path id="Caminho_22776" data-name="Caminho 22776" d="M83.1-1302.534l.72.731,1.243-1.2" transform="translate(-83.102 1303)" fill="none" stroke="#2af1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+        <path id="Caminho_22777" data-name="Caminho 22777" d="M89.25,244.147h4.209" transform="translate(-86.608 -243.549)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.7"/>
+      </g>
+      <g id="Grupo_4335" data-name="Grupo 4335" transform="translate(1.438 3.652)">
+        <path id="Caminho_22776-2" data-name="Caminho 22776" d="M83.1-1302.534l.72.731,1.243-1.2" transform="translate(-83.102 1303)" fill="none" stroke="#2af1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+        <path id="Caminho_22777-2" data-name="Caminho 22777" d="M89.25,244.147h4.209" transform="translate(-86.608 -243.549)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.7"/>
+      </g>
+      <g id="Grupo_4336" data-name="Grupo 4336" transform="translate(1.438 5.739)">
+        <path id="Caminho_22776-3" data-name="Caminho 22776" d="M83.1-1302.534l.72.731,1.243-1.2" transform="translate(-83.102 1303)" fill="none" stroke="#2af1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+        <path id="Caminho_22777-3" data-name="Caminho 22777" d="M89.25,244.147h4.209" transform="translate(-86.608 -243.549)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.7"/>
+      </g>
+      <g id="Grupo_4337" data-name="Grupo 4337" transform="translate(1.451 7.826)">
+        <path id="Caminho_22776-4" data-name="Caminho 22776" d="M83.1-1302.534l.72.731,1.243-1.2" transform="translate(-83.102 1303)" fill="none" stroke="#2af1ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+        <path id="Caminho_22777-4" data-name="Caminho 22777" d="M89.25,244.147h4.209" transform="translate(-86.608 -243.549)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.7"/>
+      </g>
+      <path id="Caminho_22778" data-name="Caminho 22778" d="M83.8-1286.643h6.983" transform="translate(-82.417 1297.264)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.7"/>
+    </g>
+  </g>
+</svg>
