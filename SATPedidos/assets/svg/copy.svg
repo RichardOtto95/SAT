@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="21.5" viewBox="0 0 20.5 21.5">
+  <g id="Copiar_Itens_do_pedido" data-name="Copiar Itens do pedido" transform="translate(0 0.5)">
+    <g id="Retângulo_857" data-name="Retângulo 857" transform="translate(0 3.5)" fill="#fff" stroke="#025b74" stroke-width="1">
+      <rect width="16.471" height="17.5" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15.471" height="16.5" rx="0.5" fill="none"/>
+    </g>
+    <path id="Caminho_23226" data-name="Caminho 23226" d="M1.176,0H11.9c.235.091.228.031.437.128a2.03,2.03,0,0,1,.4.257l3.737,4V16.333A1.172,1.172,0,0,1,15.294,17.5H1.176A1.172,1.172,0,0,1,0,16.333V1.167A1.172,1.172,0,0,1,1.176,0Z" transform="translate(3.529)" fill="#fff" stroke="#025b74" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Linha_522" data-name="Linha 522" x2="10.756" transform="translate(7.059 9.583)" fill="none" stroke="#1f6982" stroke-width="1"/>
+    <line id="Linha_523" data-name="Linha 523" x2="9.412" transform="translate(7.059 12.25)" fill="none" stroke="#045773" stroke-width="1"/>
+    <line id="Linha_524" data-name="Linha 524" x2="5.378" transform="translate(7.059 6.917)" fill="none" stroke="#6196a7" stroke-width="1"/>
+    <line id="Linha_525" data-name="Linha 525" x2="5.378" transform="translate(7.059 5.583)" fill="none" stroke="#9ebec9" stroke-width="1"/>
+    <line id="Linha_526" data-name="Linha 526" x2="5.378" transform="translate(7.059 4.25)" fill="none" stroke="#a0c0ca" stroke-width="1"/>
+    <line id="Linha_527" data-name="Linha 527" x2="5.378" transform="translate(7.059 2.917)" fill="none" stroke="#428195" stroke-width="1"/>
+    <path id="Caminho_23227" data-name="Caminho 23227" d="M-7498.923-3602v4.63h4.431Z" transform="translate(7514.309 3602)" fill="#025b74" stroke="#025b74" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

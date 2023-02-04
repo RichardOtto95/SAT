@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.312" height="14.259" viewBox="0 0 20.312 14.259">
+  <g id="Exibir_Log" data-name="Exibir Log" transform="translate(0.215 0.25)">
+    <g id="Retângulo_856" data-name="Retângulo 856" transform="translate(0 3.151)" fill="#00d6ff" stroke="#00d6ff" stroke-width="1">
+      <rect width="6.664" height="3.729" stroke="none"/>
+      <rect x="0.5" y="0.5" width="5.664" height="2.729" fill="none"/>
+    </g>
+    <path id="Caminho_23224" data-name="Caminho 23224" d="M-7644.7-3645.048v-4.069h15.111v4.069Z" transform="translate(7644.985 3652.159)" fill="none" stroke="#bff5ff" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Grupo_4836" data-name="Grupo 4836" transform="translate(12.628)">
+      <path id="Subtração_3" data-name="Subtração 3" d="M4.95,13.759H2.331V6.068l-.893-.407A5.1,5.1,0,0,1,0,2.783,4.754,4.754,0,0,1,1.437,0H6.066l0,0a10.05,10.05,0,0,1,.676,1.165,4.243,4.243,0,0,1,.471,1.864,4.511,4.511,0,0,1-1.31,2.628l-.956.407V7.63l1.116.6V9.319L4.95,9.912V11.29l1.116.469v1.375l-1.115.626ZM3.608,1.242c-.786,0-1.427.419-1.427.933s.641.933,1.427.933,1.429-.419,1.429-.933S4.4,1.242,3.608,1.242Z" transform="translate(0)" fill="#f9ac3d" stroke="#feecd2" stroke-linejoin="round" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
