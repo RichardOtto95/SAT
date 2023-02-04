@@ -1,0 +1,14 @@
+<svg id="Componente_88_2" data-name="Componente 88 – 2" xmlns="http://www.w3.org/2000/svg" width="20.848" height="18.967" viewBox="0 0 20.848 18.967">
+  <g id="Grupo_4833" data-name="Grupo 4833" transform="translate(-564.027 -521.266)">
+    <g id="Caminho_23216" data-name="Caminho 23216" transform="translate(8476 4616)" fill="#fff">
+      <path d="M -7903.03125 -4080.15625 L -7906.265625 -4080.15625 L -7906.265625 -4085.359375 L -7903.03125 -4085.359375 L -7903.03125 -4080.15625 Z" stroke="none"/>
+      <path d="M -7905.765625 -4084.859375 L -7905.765625 -4080.65625 L -7903.53125 -4080.65625 L -7903.53125 -4084.859375 L -7905.765625 -4084.859375 M -7906.765625 -4085.859375 L -7902.53125 -4085.859375 L -7902.53125 -4079.65625 L -7906.765625 -4079.65625 L -7906.765625 -4085.859375 Z" stroke="none" fill="#fff"/>
+    </g>
+    <path id="Caminho_23215_-_Contorno" data-name="Caminho 23215 - Contorno" d="M-7857.18-4078.768h-4.768a.5.5,0,0,1-.5-.5v-6.6h5.768v6.6A.5.5,0,0,1-7857.18-4078.768Zm-4.268-1h3.768v-6.1h-3.768Z" transform="translate(8431 4616)" fill="#04a239"/>
+  </g>
+  <path id="Caminho_23214" data-name="Caminho 23214" d="M-7861.948-4079.268v-7.1h-4.511l6.943-7.871,6.891,7.871h-4.555v7.1Z" transform="translate(-7846.111 -4075.768) rotate(180)" fill="#04a239" stroke="#04a239" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <g id="Grupo_4832" data-name="Grupo 4832" transform="translate(-565.027 -514.266)">
+    <path id="Caminho_23215" data-name="Caminho 23215" d="M-7909.687-4093.719l6.2-6.922,6.063,7.016Z" transform="translate(8476 4616)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_23215_-_Contorno-2" data-name="Caminho 23215 - Contorno" d="M-7862.448-4085.864h-4.011a.5.5,0,0,1-.456-.294.5.5,0,0,1,.081-.537l6.943-7.871a.5.5,0,0,1,.375-.169h0a.5.5,0,0,1,.375.171l6.891,7.871a.5.5,0,0,1,.08.536.5.5,0,0,1-.456.293h-9.823Zm-2.9-1h3.4a.5.5,0,0,1,.5.5v.5h3.768v-.5a.5.5,0,0,1,.5-.5h3.453l-5.79-6.614Z" transform="translate(8431.985 4609)" fill="#04a239"/>
+  </g>
+</svg>

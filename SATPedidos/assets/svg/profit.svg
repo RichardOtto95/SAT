@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.535" height="23.824" viewBox="0 0 23.535 23.824">
+  <g id="Lucro" transform="translate(0.128 0.064)">
+    <g id="Grupo_5149" data-name="Grupo 5149" transform="translate(-594.787 -784.594) rotate(42)">
+      <g id="Grupo_5148" data-name="Grupo 5148" transform="matrix(0.985, -0.174, 0.174, 0.985, -23.5, 176.749)">
+        <path id="Caminho_23229" data-name="Caminho 23229" d="M-7479.418-3713.246v-11.781l-5.712-5.578-5.757,5.578v11.781Z" transform="translate(8475.388 3906)" fill="#686868" stroke="#686868" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text id="_" data-name="$" transform="translate(987.5 190)" fill="#686868" stroke="rgba(0,0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" font-size="9" font-family="Roboto-Regular, Roboto" letter-spacing="0.001em"><tspan x="0" y="0">$</tspan></text>
+        <g id="Retângulo_859" data-name="Retângulo 859" transform="translate(990.121 177.379) rotate(45)" fill="#686868" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+          <rect width="3" height="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+        </g>
+      </g>
+      <g id="Grupo_5147" data-name="Grupo 5147" transform="translate(-8 2)">
+        <path id="Caminho_23229-2" data-name="Caminho 23229" d="M-7479.418-3713.246v-11.781l-5.712-5.578-5.757,5.578v11.781Z" transform="translate(8475.388 3906)" fill="#7bba00" stroke="#7bba00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text id="_2" data-name="$" transform="translate(987.5 190)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" font-size="9" font-family="Roboto-Regular, Roboto" letter-spacing="0.001em"><tspan x="0" y="0">$</tspan></text>
+        <g id="Retângulo_859-2" data-name="Retângulo 859" transform="translate(990.121 177.379) rotate(45)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+          <rect width="3" height="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

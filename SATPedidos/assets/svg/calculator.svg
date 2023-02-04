@@ -1,0 +1,30 @@
+<svg id="Componente_92_2" data-name="Componente 92 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="28" viewBox="0 0 20 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Retângulo_854" data-name="Retângulo 854" fill="#d04615" stroke="#d04615" stroke-width="1">
+    <rect width="20" height="28" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="19" height="27" rx="1.5" fill="none"/>
+  </g>
+  <rect id="Retângulo_855" data-name="Retângulo 855" width="16" height="6" rx="1" transform="translate(2 2)" fill="#fff"/>
+  <g id="Repetição_de_grade_20" data-name="Repetição de grade 20" transform="translate(2 9)" clip-path="url(#clip-path)">
+    <g id="Grupo_4834" data-name="Grupo 4834" transform="translate(-688 -371)">
+      <circle id="Elipse_65" data-name="Elipse 65" cx="2.5" cy="2.5" r="2.5" transform="translate(688 371)" fill="#fff"/>
+      <circle id="Elipse_66" data-name="Elipse 66" cx="2.5" cy="2.5" r="2.5" transform="translate(693.5 371)" fill="#fff"/>
+      <circle id="Elipse_67" data-name="Elipse 67" cx="2.5" cy="2.5" r="2.5" transform="translate(699 371)" fill="#fff"/>
+    </g>
+    <g id="Grupo_4834-2" data-name="Grupo 4834" transform="translate(-688 -365)">
+      <circle id="Elipse_65-2" data-name="Elipse 65" cx="2.5" cy="2.5" r="2.5" transform="translate(688 371)" fill="#fff"/>
+      <circle id="Elipse_66-2" data-name="Elipse 66" cx="2.5" cy="2.5" r="2.5" transform="translate(693.5 371)" fill="#fff"/>
+      <circle id="Elipse_67-2" data-name="Elipse 67" cx="2.5" cy="2.5" r="2.5" transform="translate(699 371)" fill="#fff"/>
+    </g>
+    <g id="Grupo_4834-3" data-name="Grupo 4834" transform="translate(-688 -359)">
+      <circle id="Elipse_65-3" data-name="Elipse 65" cx="2.5" cy="2.5" r="2.5" transform="translate(688 371)" fill="#fff"/>
+      <circle id="Elipse_66-3" data-name="Elipse 66" cx="2.5" cy="2.5" r="2.5" transform="translate(693.5 371)" fill="#fff"/>
+      <circle id="Elipse_67-3" data-name="Elipse 67" cx="2.5" cy="2.5" r="2.5" transform="translate(699 371)" fill="#fff"/>
+    </g>
+  </g>
+  <text id="_0" data-name="0" transform="translate(14 7)" fill="#4b4b4b" font-size="5" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+</svg>

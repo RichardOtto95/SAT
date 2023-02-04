@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" viewBox="0 0 26 24">
+  <g id="Grupo_4505" data-name="Grupo 4505" transform="translate(-193 -698)">
+    <g id="Elipse_25" data-name="Elipse 25" transform="translate(196 698)" fill="none" stroke="#5be500" stroke-width="2">
+      <ellipse cx="11.5" cy="12" rx="11.5" ry="12" stroke="none"/>
+      <ellipse cx="11.5" cy="12" rx="10.5" ry="11" fill="none"/>
+    </g>
+    <rect id="Retângulo_761" data-name="Retângulo 761" width="12" height="12" transform="translate(196 710)" fill="#efefef"/>
+    <path id="Caminho_22877" data-name="Caminho 22877" d="M4,0,8,4H0Z" transform="translate(201 714) rotate(180)" fill="#5be500"/>
+    <circle id="Elipse_26" data-name="Elipse 26" cx="2" cy="2" r="2" transform="translate(206 708)" fill="#5be500"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+
+<svg id="Exibir_Recebimento_do_Caixa" data-name="Exibir Recebimento do Caixa" xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17">
+  <g id="Retângulo_858" data-name="Retângulo 858" fill="#00858a" stroke="#00858a" stroke-width="1">
+    <rect width="20" height="17" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="19" height="16" rx="1.5" fill="none"/>
+  </g>
+  <text id="_" data-name="$" transform="translate(7.5 11)" fill="#4b4b4b" font-size="9" font-family="Roboto-Regular, Roboto" letter-spacing="0.001em"><tspan x="0" y="0">$</tspan></text>
+  <g id="Caminho_23228" data-name="Caminho 23228" transform="translate(7446.086 3635)" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M -7435.04150390625 -3632.75732421875 L -7437.13134765625 -3632.75732421875 L -7437.13134765625 -3634.5 L -7435.04150390625 -3634.5 L -7435.04150390625 -3632.75732421875 Z" stroke="none"/>
+    <path d="M -7436.63134765625 -3634 L -7436.63134765625 -3633.25732421875 L -7435.54150390625 -3633.25732421875 L -7435.54150390625 -3634 L -7436.63134765625 -3634 M -7437.63134765625 -3635 L -7434.54150390625 -3635 L -7434.54150390625 -3632.25732421875 L -7437.63134765625 -3632.25732421875 L -7437.63134765625 -3635 Z" stroke="none" fill="#fff"/>
+  </g>
+</svg>
