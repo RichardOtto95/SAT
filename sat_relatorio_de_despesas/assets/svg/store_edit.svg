@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.222" height="19.693" viewBox="0 0 23.222 19.693">
+  <g id="Componente_246_2" data-name="Componente 246 – 2" transform="translate(0.5)">
+    <g id="Componente_225_3" data-name="Componente 225 – 3">
+      <g id="Retângulo_980" data-name="Retângulo 980" transform="translate(1.559 4)" fill="#00a3ff" stroke="#4fc0ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="17" height="14" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="13" fill="none"/>
+      </g>
+      <g id="Retângulo_981" data-name="Retângulo 981" transform="translate(2.559)" fill="#35404d" stroke="#464c56" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="15" height="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="4" fill="none"/>
+      </g>
+      <g id="Retângulo_982" data-name="Retângulo 982" transform="translate(4.559 6)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1">
+        <rect width="11" height="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="5" fill="none"/>
+      </g>
+      <path id="Caminho_23716" data-name="Caminho 23716" d="M564.737,712l-2.97-3.66H547.493L544.619,712l2.3,1.322L548.93,712l2.2,1.322L553.145,712l1.82,1.322L556.881,712l1.724,1.322,1.82-1.322,2.012,1.322Z" transform="translate(-544.619 -705.84)" fill="#c01a18" stroke="#c01a18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <path id="Caminho_23757" data-name="Caminho 23757" d="M-1476.108,22.967a9.974,9.974,0,0,0-1.387-1.814,5.234,5.234,0,0,0-1.568-1.028l-1.25,4.262Z" transform="translate(1487.875 -5.195)" fill="#016eaf" stroke="#016eaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_23755" data-name="Caminho 23755" d="M-1478.189,17.891l7.117-7.088a7.051,7.051,0,0,1,1.649,1.157,7.25,7.25,0,0,1,1.186,1.649l-7.064,7.163a13.559,13.559,0,0,0-1.355-1.724A7.373,7.373,0,0,0-1478.189,17.891Z" transform="translate(1488.029 -3.71)" fill="#016eaf" stroke="#016eaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_23756" data-name="Caminho 23756" d="M-1469.677,10.421l1.5-1.447,2.864,2.893-1.475,1.476a5.626,5.626,0,0,0-1.1-1.707A6.947,6.947,0,0,0-1469.677,10.421Z" transform="translate(1487.531 -4.37)" fill="#016eaf" stroke="#016eaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

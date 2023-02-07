@@ -3,10 +3,10 @@ import 'package:comum/utilities/custom_scroll_behavior.dart';
 import 'package:comum/utilities/utilities.dart';
 import 'package:comum/widgets/action_popup.dart';
 import 'package:comum/widgets/default_app_bar.dart';
+import 'package:comum/widgets/default_overlay_slider.dart';
 import 'package:comum/widgets/default_text_field.dart';
 import 'package:comum/widgets/default_title.dart';
 import 'package:comum/widgets/grid_base.dart';
-import 'package:comum/widgets/responsive.dart';
 import 'package:comum/widgets/secondary_button.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
@@ -49,83 +49,72 @@ class ExpenseReportPageState extends State<ExpenseReportPage>
             Column(
               children: [
                 vSpace(viewPaddingTop(context) + 65 + 32 + 20 + 55),
-                SizedBox(
-                  height: 200,
-                  width: maxWidth(context),
-                  child: MyGrid(),
-                ),
-                const Expanded(
-                  child: MyGrid(),
+                Expanded(
+                  child: MyGrid(
+                    onSelect: (selectEvent) {
+                      showDialog(
+                        context: context,
+                        builder: (context) => DefaultOverlaySlider(
+                          onBack: () {
+                            Modular.to.pop();
+                          },
+                          child: Column(
+                            children: [
+                              const DefaultTitle(
+                                title: "Código: 01",
+                                top: 20,
+                                bottom: 20,
+                              ),
+                              SecondaryButton(
+                                label: "Alterar data da despesa",
+                                icon: "calendar_edit",
+                                width: wXD(332, context),
+                                onTap: () {},
+                              ),
+                              SecondaryButton(
+                                label: "Alterar loja",
+                                icon: "store_edit",
+                                width: wXD(332, context),
+                                onTap: () {},
+                              ),
+                              SecondaryButton(
+                                label: "Alterar Despesa",
+                                icon: "monetization_edit",
+                                width: wXD(332, context),
+                                onTap: () {},
+                              ),
+                              SecondaryButton(
+                                label: "Alterar histórico",
+                                icon: "report_edit",
+                                width: wXD(332, context),
+                                onTap: () {},
+                              ),
+                            ],
+                          ),
+                        ),
+                      );
+                    },
+                  ),
                 ),
               ],
             ),
             Column(
               children: [
                 DefaultAppBar(
-                  title: "Relatório de premiação",
+                  title: "Relatório de despesas",
                   actions: [
-                    PopupMenuButton(
-                      constraints: const BoxConstraints(maxWidth: 405),
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(9),
+                    IconButton(
+                      onPressed: () => showDialog(
+                        context: context,
+                        useRootNavigator: true,
+                        builder: (context) => getPrintPopup(),
                       ),
-                      onSelected: (value) {
-                        switch (value) {
-                          case 0:
-                            showDialog(
-                              context: context,
-                              useRootNavigator: true,
-                              builder: (context) => getPrintPopup(),
-                            );
-                            break;
-                          default:
-                        }
-                      },
-                      child: SvgPicture.asset(
+                      icon: SvgPicture.asset(
                         "assets/svg/light_printer.svg",
                         width: 24,
                       ),
-                      itemBuilder: (context) {
-                        List<Map> menuItens = [
-                          {
-                            "icon": "printer",
-                            "title": "Imprimir em quantidade",
-                          },
-                          {
-                            "icon": "printer",
-                            "title": "Imprimir em valores",
-                          },
-                        ];
-                        return List.generate(
-                          menuItens.length,
-                          (index) => PopupMenuItem<int>(
-                            value: index,
-                            height: 46,
-                            child: Row(
-                              children: [
-                                Container(
-                                  height: 46,
-                                  alignment: Alignment.centerLeft,
-                                  child: SvgPicture.asset(
-                                    "./assets/svg/${menuItens[index]["icon"]}.svg",
-                                    width: 20,
-                                  ),
-                                ),
-                                hSpace(10),
-                                Text(
-                                  menuItens[index]["title"],
-                                  style: Responsive.isDesktop(context)
-                                      ? getStyles(context).displayLarge
-                                      : getStyles(context)
-                                          .displaySmall
-                                          ?.copyWith(),
-                                )
-                              ],
-                            ),
-                          ),
-                        );
-                      },
                     ),
+
                     hSpace(10),
                     IconButton(
                       onPressed: () => animate(),
@@ -138,7 +127,7 @@ class ExpenseReportPageState extends State<ExpenseReportPage>
                   ],
                 ),
                 vSpace(10),
-                const DefaultTextField(label: "Campanha", height: 55),
+                const DefaultTextField(label: "Tipo de busca", height: 55),
                 AnimatedBuilder(
                   animation: animationController,
                   child: Material(
@@ -179,53 +168,79 @@ class ExpenseReportPageState extends State<ExpenseReportPage>
                                     ),
                                   ],
                                 ),
-                                const DefaultTitle(
-                                  title: "Em quantidade",
-                                  top: 15,
-                                  bottom: 15,
-                                  isLeft: true,
-                                ),
                                 Row(
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceEvenly,
                                   children: [
-                                    SecondaryButton(
-                                      label: "Números",
-                                      icon: "report",
+                                    DefaultTextField(
+                                      label: "Loja",
                                       width: splitWidth(context, 2),
                                       onTap: () {},
                                     ),
-                                    SecondaryButton(
-                                      label: "Percentual",
-                                      icon: "report",
+                                    DefaultTextField(
+                                      label: "Despesa",
                                       width: splitWidth(context, 2),
                                       onTap: () {},
                                     ),
                                   ],
                                 ),
-                                const DefaultTitle(
-                                  title: "Em valores",
-                                  top: 15,
-                                  bottom: 15,
-                                  isLeft: true,
+                                Row(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceEvenly,
+                                  children: [
+                                    DefaultTextField(
+                                      label: "Fornecedor",
+                                      width: splitWidth(context, 2),
+                                      onTap: () {},
+                                    ),
+                                    DefaultTextField(
+                                      label: "Parceiro",
+                                      width: splitWidth(context, 2),
+                                      onTap: () {},
+                                    ),
+                                  ],
                                 ),
                                 Row(
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceEvenly,
                                   children: [
-                                    SecondaryButton(
-                                      label: "Valor Ven.",
-                                      icon: "report",
+                                    DefaultTextField(
+                                      label: "Situação",
                                       width: splitWidth(context, 2),
-                                      onTap: () {},
+                                      dropDown: true,
                                     ),
-                                    SecondaryButton(
-                                      label: "Percentual",
-                                      icon: "report",
+                                    DefaultTextField(
+                                      label: "Exibir",
                                       width: splitWidth(context, 2),
-                                      onTap: () {},
+                                      dropDown: true,
                                     ),
                                   ],
+                                ),
+                                SecondaryButton(
+                                  label: "Despesas",
+                                  icon: "monetization_report",
+                                  onTap: () {},
+                                ),
+                                SecondaryButton(
+                                  label:
+                                      "DRE - Demonstrativo de Resultadodo Exercício",
+                                  icon: "monetization_report",
+                                  onTap: () {},
+                                ),
+                                SecondaryButton(
+                                  label: "DRE - por Loja",
+                                  icon: "monetization_report",
+                                  onTap: () {},
+                                ),
+                                SecondaryButton(
+                                  label: "Balanço Patrimonial - a Pagar mensal",
+                                  icon: "balance",
+                                  onTap: () {},
+                                ),
+                                SecondaryButton(
+                                  label: "Balanço Patrimonial - a Pagar na DRE",
+                                  icon: "balance",
+                                  onTap: () {},
                                 ),
                               ],
                             ),
@@ -297,7 +312,7 @@ class ExpenseReportPageState extends State<ExpenseReportPage>
           Padding(
             padding: EdgeInsets.symmetric(horizontal: 10),
             child: DefaultTextField(
-              label: "Relatórios",
+              label: "Modo de impressão",
               dropDown: true,
               width: double.infinity,
               bottom: 20,

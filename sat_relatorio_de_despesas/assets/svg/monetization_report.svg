@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.024" height="21.564" viewBox="0 0 22.024 21.564">
+  <g id="monetization_report" transform="translate(0 1)">
+    <g id="Componente_229_5" data-name="Componente 229 – 5">
+      <g id="Elipse_128" data-name="Elipse 128" fill="none" stroke="#35404d" stroke-width="2">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9" fill="none"/>
+      </g>
+      <text id="_" data-name="$" transform="translate(10 16)" fill="#00bb43" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-4.547" y="0">$</tspan></text>
+    </g>
+    <g id="Componente_95_13" data-name="Componente 95 – 13" transform="translate(10 4.466)">
+      <g id="Retângulo_863" data-name="Retângulo 863" transform="translate(0 2.055)" fill="#fff" stroke="#555" stroke-width="1">
+        <rect width="12.024" height="14.043" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11.024" height="13.043" rx="1.5" fill="none"/>
+      </g>
+      <path id="Caminho_23233" data-name="Caminho 23233" d="M-5512.723-5340.816c.308.359,1.206,1.489,1.206,1.489l2.129-2.028" transform="translate(5514.607 5346.946)" fill="none" stroke="#ff1919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23242" data-name="Caminho 23242" d="M-5512.723-5340.816c.308.359,1.206,1.489,1.206,1.489l2.129-2.028" transform="translate(5514.607 5349.772)" fill="none" stroke="#ff1919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23243" data-name="Caminho 23243" d="M-5512.723-5340.816c.308.359,1.206,1.489,1.206,1.489l2.129-2.028" transform="translate(5514.607 5352.649)" fill="none" stroke="#ff1919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23236" data-name="Caminho 23236" d="M-5504.33-5339.592h.9v.911h1.514v-.911h.923" transform="translate(5511.037 5346.25)" fill="none" stroke="#2f6977" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23238" data-name="Caminho 23238" d="M-5504.33-5339.592h.9v.911h1.514v-.911h.923" transform="translate(5511.037 5349.125)" fill="none" stroke="#2f6977" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23240" data-name="Caminho 23240" d="M-5504.33-5339.592h.9v.911h1.514v-.911h.923" transform="translate(5511.05 5351.949)" fill="none" stroke="#2f6977" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Caminho_23237" data-name="Caminho 23237" d="M-5502.727-5339.391h1.513" transform="translate(5510.357 5346.049)" fill="none" stroke="#2f6977" stroke-width="1"/>
+      <path id="Caminho_23239" data-name="Caminho 23239" d="M-5502.727-5339.391h1.513" transform="translate(5510.357 5348.925)" fill="none" stroke="#2f6977" stroke-width="1"/>
+      <path id="Caminho_23241" data-name="Caminho 23241" d="M-5502.727-5339.391h1.513" transform="translate(5510.37 5351.749)" fill="none" stroke="#2f6977" stroke-width="1"/>
+      <path id="Subtração_5" data-name="Subtração 5" d="M6.473,4.166H0V1.7l2.172-.039V0H4.184V1.659L6.473,1.7V4.166ZM3.162.042a.863.863,0,1,0,.862.863A.864.864,0,0,0,3.162.042Z" transform="translate(2.8)" fill="#00cfff" stroke="#00cfff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

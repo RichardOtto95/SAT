@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.017" height="29.389" viewBox="0 0 21.017 29.389">
+  <g id="Saldo" transform="translate(0.5)">
+    <text id="_" data-name="$" transform="translate(3.124 23)" fill="#4b4b4b" font-size="22" font-family="Roboto-Regular, Roboto" letter-spacing="0.001em"><tspan x="0" y="0">$</tspan></text>
+    <path id="Caminho_23089" data-name="Caminho 23089" d="M-7218.607-4227.068l2.454,3.521,2.565-3.521Z" transform="translate(7233.604 4252.436)" fill="#00bb43" stroke="#00bb43" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_23091" data-name="Caminho 23091" d="M0,0,2.454,3.521,5.02,0Z" transform="translate(5.02 8.787) rotate(180)" fill="#c01a18" stroke="#c01a18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Caminho_23090" data-name="Caminho 23090" d="M-7216.376-4226.034v-4.828" transform="translate(7233.872 4251.401)" fill="#00bb43" stroke="#00bb43" stroke-linecap="round" stroke-width="1"/>
+    <path id="Caminho_23092" data-name="Caminho 23092" d="M0,4.828V0" transform="translate(2.519 13.615) rotate(180)" fill="#c01a18" stroke="#c01a18" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
